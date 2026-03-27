@@ -1,0 +1,40 @@
+KB STATISTICS REPORT
+==================================================
+Domain    : International Men's Volleyball (FIVB)
+Sources   : Wikipedia API + Wikidata SPARQL
+
+VOLUME
+  Total triples    :     61,774
+  Total entities   :     31,801
+  Total predicates :         49
+
+ENTITY BREAKDOWN
+  Subjects (active):     26,751
+  Objects only     :      5,050
+
+TOP 20 PREDICATES
+  P641                                  15,009
+  P54                                   10,219
+  P17                                    6,200
+  P156                                   4,059
+  P155                                   4,043
+  P1344                                  3,795
+  P27                                    3,015
+  P19                                    3,010
+  P413                                   2,681
+  P361                                   1,794
+  22-rdf-syntax-ns#type                  1,549
+  P664                                   1,006
+  P1532                                    822
+  P166                                     652
+  ontology#playsPosition                   500
+  ontology#bornIn                          500
+  ontology#citizenOf                       500
+  ontology#representsCountry               500
+  P20                                      343
+  P115                                     320
+
+SIZE VALIDATION
+  Triples      61,774 | target 50k–200k  → OK 
+  Entities     31,801 | target 5k–30k    → ABOVE MAX (acceptable) ℹ
+  Relations        49 | target 50–200    → TOO FEW 

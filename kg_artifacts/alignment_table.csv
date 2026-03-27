@@ -1,0 +1,201 @@
+private_entity,label,entity_type,wikidata_uri,confidence,status
+http://volleyball-kg.org/ontology#Confederação_Brasileira_de_Voleibol,Confederação Brasileira de Voleibol,ORG,http://www.wikidata.org/entity/Q5159864,0.95,linked
+http://volleyball-kg.org/ontology#Brazilian_Volleyball_Confederation,Brazilian Volleyball Confederation,ORG,http://www.wikidata.org/entity/Q5159864,0.8,linked
+http://volleyball-kg.org/ontology#Olympic_Games,Olympic Games,EVENT,http://www.wikidata.org/entity/Q5389,0.95,linked
+http://volleyball-kg.org/ontology#World_Championship,World Championship,EVENT,http://www.wikidata.org/entity/Q1344963,0.95,linked
+http://volleyball-kg.org/ontology#World_League,World League,EVENT,http://www.wikidata.org/entity/Q8035916,0.95,linked
+http://volleyball-kg.org/ontology#FIVB,FIVB,ORG,http://www.wikidata.org/entity/Q6851,0.8,linked
+http://volleyball-kg.org/ontology#Bernardo_Rezende,Bernardo Rezende,PERSON,http://www.wikidata.org/entity/Q716465,0.95,linked
+http://volleyball-kg.org/ontology#FIVB_World_Rankings,FIVB World Rankings,ORG,http://www.wikidata.org/entity/Q1475759,0.95,linked
+http://volleyball-kg.org/ontology#Sydney_Olympic_Games,Sydney Olympic Games,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Bernardinho,Bernardinho,PERSON,http://www.wikidata.org/entity/Q716465,0.8,linked
+http://volleyball-kg.org/ontology#Americas_Cup,America's Cup,EVENT,http://www.wikidata.org/entity/Q467557,0.95,linked
+http://volleyball-kg.org/ontology#South_American_Championship,South American Championship,EVENT,http://www.wikidata.org/entity/Q7565950,0.95,linked
+http://volleyball-kg.org/ontology#World_Grand_Champions_Cup,World Grand Champions Cup,EVENT,http://www.wikidata.org/entity/Q2579341,0.95,linked
+http://volleyball-kg.org/ontology#World_Champions,World Champions,ORG,http://www.wikidata.org/entity/Q1344963,0.95,linked
+http://volleyball-kg.org/ontology#Pan_American_Games,Pan American Games,EVENT,http://www.wikidata.org/entity/Q230186,0.95,linked
+http://volleyball-kg.org/ontology#World_Cup,World Cup,EVENT,http://www.wikidata.org/entity/Q19317,0.8,linked
+http://volleyball-kg.org/ontology#Bernardo_Rezendes,Bernardo Rezende's,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Nations_League,Nations League,ORG,http://www.wikidata.org/entity/Q15980635,0.8,linked
+http://volleyball-kg.org/ontology#Pan-American_Cup,Pan-American Cup,EVENT,http://www.wikidata.org/entity/Q1817812,0.95,linked
+http://volleyball-kg.org/ontology#Copa_América,Copa América,ORG,http://www.wikidata.org/entity/Q178750,0.95,linked
+http://volleyball-kg.org/ontology#FIVB_Olympic_Qualification_Tournament,FIVB Olympic Qualification Tournament,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#South_American_Olympic_Qualification_Tournament,South American Olympic Qualification Tournament,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#World_Championship_Qualification_Tournament,World Championship Qualification Tournament,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Bebeto_de_Freitas,Bebeto de Freitas,PERSON,http://www.wikidata.org/entity/Q1132732,0.95,linked
+http://volleyball-kg.org/ontology#José_Roberto_Guimarães,José Roberto Guimarães,PERSON,http://www.wikidata.org/entity/Q2629771,0.95,linked
+http://volleyball-kg.org/ontology#Radamés_Lattari,Radamés Lattari,PERSON,http://www.wikidata.org/entity/Q3928601,0.95,linked
+http://volleyball-kg.org/ontology#Renan_Dal_Zotto,Renan Dal Zotto,PERSON,http://www.wikidata.org/entity/Q530237,0.95,linked
+http://volleyball-kg.org/ontology#Carlos_Schwanke,Carlos Schwanke,PERSON,http://www.wikidata.org/entity/Q16337077,0.8,linked
+http://volleyball-kg.org/ontology#Banco_do_Brasil,Banco do Brasil,ORG,http://www.wikidata.org/entity/Q108220676,0.8,linked
+http://volleyball-kg.org/ontology#Nivea,Nivea,ORG,http://www.wikidata.org/entity/Q16280169,0.95,linked
+http://volleyball-kg.org/ontology#Globoesporte,Globoesporte,ORG,http://www.wikidata.org/entity/Q10290122,0.8,linked
+http://volleyball-kg.org/ontology#Gatorade,Gatorade,ORG,http://www.wikidata.org/entity/Q304992,0.95,linked
+http://volleyball-kg.org/ontology#Gol_Transportes_Aereos,Gol Transportes Aereos,ORG,http://www.wikidata.org/entity/Q691637,0.95,linked
+http://volleyball-kg.org/ontology#Delta_Air_Lines,Delta Air Lines,ORG,http://www.wikidata.org/entity/Q188920,0.95,linked
+http://volleyball-kg.org/ontology#Mikasa,Mikasa,ORG,http://www.wikidata.org/entity/Q37028473,0.95,linked
+http://volleyball-kg.org/ontology#Ernst_Young,Ernst & Young,ORG,http://www.wikidata.org/entity/Q489097,0.95,linked
+http://volleyball-kg.org/ontology#Asics,Asics,ORG,http://www.wikidata.org/entity/Q327247,0.95,linked
+http://volleyball-kg.org/ontology#Media,Media,ORG,http://www.wikidata.org/entity/Q1187804,0.95,linked
+http://volleyball-kg.org/ontology#SporTV,SporTV,ORG,http://www.wikidata.org/entity/Q3493786,0.95,linked
+http://volleyball-kg.org/ontology#Globo,Globo,ORG,http://www.wikidata.org/entity/Q3587,0.8,linked
+http://volleyball-kg.org/ontology#Final_Six,Final Six,EVENT,http://www.wikidata.org/entity/Q110456333,0.95,linked
+http://volleyball-kg.org/ontology#European_Championship,European Championship,EVENT,http://www.wikidata.org/entity/Q1375427,0.95,linked
+http://volleyball-kg.org/ontology#Rio_2016,Rio 2016,EVENT,http://www.wikidata.org/entity/Q8613,0.8,linked
+http://volleyball-kg.org/ontology#Team,Team,ORG,http://www.wikidata.org/entity/Q528227,0.95,linked
+http://volleyball-kg.org/ontology#Andrea_Giani,Andrea Giani,PERSON,http://www.wikidata.org/entity/Q37830828,0.95,linked
+http://volleyball-kg.org/ontology#Plaswick,Plaswick,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#René_Verdier,René Verdier,PERSON,http://www.wikidata.org/entity/Q89599273,0.95,linked
+http://volleyball-kg.org/ontology#Marcel_Mathor,Marcel Mathor,PERSON,http://www.wikidata.org/entity/Q89599467,0.95,linked
+http://volleyball-kg.org/ontology#Shigeyoshi_Nagasaki,Shigeyoshi Nagasaki,PERSON,http://www.wikidata.org/entity/Q11652906,0.95,linked
+http://volleyball-kg.org/ontology#Nicolae_Sotir,Nicolae Sotir,PERSON,http://www.wikidata.org/entity/Q12736735,0.95,linked
+http://volleyball-kg.org/ontology#Georges_Derose,Georges Derose,PERSON,http://www.wikidata.org/entity/Q89599781,0.95,linked
+http://volleyball-kg.org/ontology#Roger_Schmitt,Roger Schmitt,PERSON,http://www.wikidata.org/entity/Q100920481,0.95,linked
+http://volleyball-kg.org/ontology#Jean-Marc_Buchel,Jean-Marc Buchel,PERSON,http://www.wikidata.org/entity/Q89599896,0.95,linked
+http://volleyball-kg.org/ontology#Georges_Komatov,Georges Komatov,PERSON,http://www.wikidata.org/entity/Q89600144,0.95,linked
+http://volleyball-kg.org/ontology#Éric_Daniel,Éric Daniel,PERSON,http://www.wikidata.org/entity/Q110141042,0.95,linked
+http://volleyball-kg.org/ontology#Gérard_Castan,Gérard Castan,PERSON,http://www.wikidata.org/entity/Q89655803,0.95,linked
+http://volleyball-kg.org/ontology#Jean-Marie_Fabiani,Jean-Marie Fabiani,PERSON,http://www.wikidata.org/entity/Q89656048,0.95,linked
+http://volleyball-kg.org/ontology#Jean-Michel_Roche,Jean-Michel Roche,PERSON,http://www.wikidata.org/entity/Q3168132,0.95,linked
+http://volleyball-kg.org/ontology#Vladimir_Kondra,Vladimir Kondra,PERSON,http://www.wikidata.org/entity/Q246390,0.95,linked
+http://volleyball-kg.org/ontology#Pierre_Laborie,Pierre Laborie,PERSON,http://www.wikidata.org/entity/Q3385698,0.95,linked
+http://volleyball-kg.org/ontology#Philippe_Blain,Philippe Blain,PERSON,http://www.wikidata.org/entity/Q2360663,0.95,linked
+http://volleyball-kg.org/ontology#Laurent_Tillie,Laurent Tillie,PERSON,http://www.wikidata.org/entity/Q3219540,0.95,linked
+http://volleyball-kg.org/ontology#Herbalife_Nutrition,Herbalife Nutrition,ORG,http://www.wikidata.org/entity/Q81446828,0.95,linked
+http://volleyball-kg.org/ontology#Generali,Generali,ORG,http://www.wikidata.org/entity/Q670482,0.8,linked
+http://volleyball-kg.org/ontology#Gerflor,Gerflor,ORG,http://www.wikidata.org/entity/Q16638952,0.95,linked
+http://volleyball-kg.org/ontology#LÉquipe,L'Équipe,ORG,http://www.wikidata.org/entity/Q1662140,0.95,linked
+http://volleyball-kg.org/ontology#Française_des_Jeux_lottery,Française des Jeux lottery,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Molten,Molten,ORG,http://www.wikidata.org/entity/Q2534462,0.95,linked
+http://volleyball-kg.org/ontology#Zamst,Zamst,ORG,http://www.wikidata.org/entity/Q114443705,0.95,linked
+http://volleyball-kg.org/ontology#Moneaucristaline,Moneaucristaline,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Veinoplus,Veinoplus,ORG,http://www.wikidata.org/entity/Q3131630,0.95,linked
+http://volleyball-kg.org/ontology#Appartcity,Appartcity,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Herbalife_International_France,Herbalife International France,ORG,http://www.wikidata.org/entity/Q132066715,0.95,linked
+http://volleyball-kg.org/ontology#Pointp-tp,Pointp-tp,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Volleyball,Volleyball,EVENT,http://www.wikidata.org/entity/Q1734,0.95,linked
+http://volleyball-kg.org/ontology#Summer_Olympics,Summer Olympics,EVENT,http://www.wikidata.org/entity/Q159821,0.8,linked
+http://volleyball-kg.org/ontology#Volleyball_Mens_World_Cup,Volleyball Men's World Cup,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Polish_Volleyball_Federation,Polish Volleyball Federation,ORG,http://www.wikidata.org/entity/Q11822628,0.95,linked
+http://volleyball-kg.org/ontology#PZPS,PZPS,ORG,http://www.wikidata.org/entity/Q11822628,0.8,linked
+http://volleyball-kg.org/ontology#1976_Summer_Olympics,1976 Summer Olympics,EVENT,http://www.wikidata.org/entity/Q8444,0.95,linked
+http://volleyball-kg.org/ontology#History,History,ORG,http://www.wikidata.org/entity/Q309,0.95,linked
+http://volleyball-kg.org/ontology#Montreal_Summer_Olympics,Montreal Summer Olympics,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Raúl_Lozano,Raúl Lozano,PERSON,http://www.wikidata.org/entity/Q37319201,0.95,linked
+http://volleyball-kg.org/ontology#Pool_C,Pool C,ORG,http://www.wikidata.org/entity/Q200023,0.8,linked
+http://volleyball-kg.org/ontology#Daniel_Castellani,Daniel Castellani,PERSON,http://www.wikidata.org/entity/Q3270499,0.95,linked
+http://volleyball-kg.org/ontology#PGE_Skra_Bełchatów,PGE Skra Bełchatów,ORG,http://www.wikidata.org/entity/Q23139462,0.95,linked
+http://volleyball-kg.org/ontology#World_League_2009,World League 2009,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#European_Championship_2009,European Championship 2009,EVENT,http://www.wikidata.org/entity/Q4613735,0.8,linked
+http://volleyball-kg.org/ontology#Paweł_Zagumny,Paweł Zagumny,PERSON,http://www.wikidata.org/entity/Q963591,0.95,linked
+http://volleyball-kg.org/ontology#Piotr_Gruszka,Piotr Gruszka,PERSON,http://www.wikidata.org/entity/Q11817517,0.95,linked
+http://volleyball-kg.org/ontology#Plebiscyt_Przeglądu_Sportowego_2009,Plebiscyt Przeglądu Sportowego 2009,ORG,http://www.wikidata.org/entity/Q11819645,0.95,linked
+http://volleyball-kg.org/ontology#World_League_2010,World League 2010,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#World_Championship_2010,World Championship 2010,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Championships,Championships,EVENT,http://www.wikidata.org/entity/Q1079023,0.8,linked
+http://volleyball-kg.org/ontology#Castellani,Castellani,PERSON,http://www.wikidata.org/entity/Q30412963,0.95,linked
+http://volleyball-kg.org/ontology#Andrea_Anastasi,Andrea Anastasi,PERSON,http://www.wikidata.org/entity/Q493330,0.95,linked
+http://volleyball-kg.org/ontology#Andrea_Gardini,Andrea Gardini,PERSON,http://www.wikidata.org/entity/Q2258700,0.95,linked
+http://volleyball-kg.org/ontology#Zagumny,Zagumny,PERSON,http://www.wikidata.org/entity/Q9385901,0.95,linked
+http://volleyball-kg.org/ontology#Winiarski,Winiarski,PERSON,http://www.wikidata.org/entity/Q21493665,0.95,linked
+http://volleyball-kg.org/ontology#Wlazły,Wlazły,PERSON,http://www.wikidata.org/entity/Q111803868,0.95,linked
+http://volleyball-kg.org/ontology#World_League_2011,World League 2011,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Zbigniew_Bartman,Zbigniew Bartman,PERSON,http://www.wikidata.org/entity/Q167988,0.95,linked
+http://volleyball-kg.org/ontology#Bartosz_Kurek,Bartosz Kurek,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Krzysztof_Ignaczak,Krzysztof Ignaczak,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#2012_Summer_Olympics,2012 Summer Olympics,EVENT,http://www.wikidata.org/entity/Q8577,0.95,linked
+http://volleyball-kg.org/ontology#FIVB_World_Cup_2011,FIVB World Cup 2011,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Olympics,Olympics,EVENT,http://www.wikidata.org/entity/Q5389,0.8,linked
+http://volleyball-kg.org/ontology#FIVB_World_Cup_1965,FIVB World Cup 1965,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Marcin_Możdżonek,Marcin Możdżonek,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Plebiscyt_Przeglądu_Sportowego_2011,Plebiscyt Przeglądu Sportowego 2011,EVENT,http://www.wikidata.org/entity/Q11819648,0.95,linked
+http://volleyball-kg.org/ontology#FIVB_World_League_2012,FIVB World League 2012,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#London_Summer_Olympics,London Summer Olympics,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Michał_Winiarski,Michał Winiarski,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Plebiscyt_Przeglądu_Sportowego,Plebiscyt Przeglądu Sportowego,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#World_League_2013,World League 2013,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Jarosz,Jarosz,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Kurek,Kurek,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Jakub_Jarosz,Jakub Jarosz,PERSON,http://www.wikidata.org/entity/Q1341322,0.95,linked
+http://volleyball-kg.org/ontology#Tsvetan_Sokolov,Tsvetan Sokolov,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Palace_of_Culture_and_Sports,Palace of Culture and Sports,ORG,http://www.wikidata.org/entity/Q7126225,0.95,linked
+http://volleyball-kg.org/ontology#Varna,Varna,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Anastasi,Anastasi,PERSON,http://www.wikidata.org/entity/Q17446186,0.95,linked
+http://volleyball-kg.org/ontology#World_Championship_2014,World Championship 2014,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Lotos_Trefl_Gdańsk,Lotos Trefl Gdańsk,ORG,http://www.wikidata.org/entity/Q3538317,0.95,linked
+http://volleyball-kg.org/ontology#Stéphane_Antiga,Stéphane Antiga,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#CEV_European_Championship_2015,CEV European Championship 2015,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#FIVB_World_League,FIVB World League,EVENT,http://www.wikidata.org/entity/Q325022,0.8,linked
+http://volleyball-kg.org/ontology#Hubert_Jerzy_Wagner,Hubert Jerzy Wagner,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Antiga,Antiga,PERSON,http://www.wikidata.org/entity/Q12472257,0.95,linked
+http://volleyball-kg.org/ontology#Mariusz_Wlazły,Mariusz Wlazły,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Piotr_Nowakowski,Piotr Nowakowski,PERSON,http://www.wikidata.org/entity/Q121696896,0.95,linked
+http://volleyball-kg.org/ontology#2014_World_Championship,2014 World Championship,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Group_F,Group F.,ORG,http://www.wikidata.org/entity/Q309961,0.8,linked
+http://volleyball-kg.org/ontology#Pool_H,Pool H,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#World_Champion_2014,World Champion 2014,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Karol_Kłos,Karol Kłos,PERSON,http://www.wikidata.org/entity/Q771587,0.95,linked
+http://volleyball-kg.org/ontology#European_Games,European Games,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Stephane_Antiga,Stephane Antiga,PERSON,http://www.wikidata.org/entity/Q1455049,0.95,linked
+http://volleyball-kg.org/ontology#Łukasz_Kruczek,Łukasz Kruczek,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Mateusz_Mika,Mateusz Mika,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Michał_Kubiak,Michał Kubiak,PERSON,http://www.wikidata.org/entity/Q11778947,0.95,linked
+http://volleyball-kg.org/ontology#Kłos,Kłos,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#World_League_2015,World League 2015,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Mateusz_Bieniek,Mateusz Bieniek,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Grzegorz_Łomacz,Grzegorz Łomacz,PERSON,http://www.wikidata.org/entity/Q9282217,0.95,linked
+http://volleyball-kg.org/ontology#Piotr_Gacek,Piotr Gacek,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Wojciech_Grzyb,Wojciech Grzyb,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Pool_J,Pool J,ORG,http://www.wikidata.org/entity/Q1239131,0.8,linked
+http://volleyball-kg.org/ontology#Paweł_Zatorski,Paweł Zatorski,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Włodarczyk,Włodarczyk,PERSON,http://www.wikidata.org/entity/Q42846316,0.95,linked
+http://volleyball-kg.org/ontology#Wrona,Wrona,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Memorial,Memorial,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Dawid_Konarski,Dawid Konarski,PERSON,http://www.wikidata.org/entity/Q100944259,0.95,linked
+http://volleyball-kg.org/ontology#World_Cup_2015,World Cup 2015,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#2016_Summer_Olympics,2016 Summer Olympics,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#World_Olympic_Qualification_Tournament,World Olympic Qualification Tournament,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Rio_Summer_Olympics,Rio Summer Olympics,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Group_B,Group B,ORG,http://www.wikidata.org/entity/Q132949,0.8,linked
+http://volleyball-kg.org/ontology#Ferdinando_De_Giorgi,Ferdinando De Giorgi,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Federation,Federation,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Radostin_Stoychev,Radostin Stoychev,PERSON,http://www.wikidata.org/entity/Q962215,0.95,linked
+http://volleyball-kg.org/ontology#Mauro_Berruto,Mauro Berruto,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#De_Giorgi,De Giorgi,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Łukasz_Kaczmarek,Łukasz Kaczmarek,PERSON,http://www.wikidata.org/entity/Q123286958,0.95,linked
+http://volleyball-kg.org/ontology#Jakub_Kochanowski,Jakub Kochanowski,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Bartłomiej_Lemański,Bartłomiej Lemański,PERSON,http://www.wikidata.org/entity/Q20029565,0.95,linked
+http://volleyball-kg.org/ontology#Artur_Szalpuk,Artur Szalpuk,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#European_Championships,European Championships,EVENT,http://www.wikidata.org/entity/Q869121,0.8,linked
+http://volleyball-kg.org/ontology#Vital_Heynen,Vital Heynen,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Andrzej_Kowal,Andrzej Kowal,PERSON,http://www.wikidata.org/entity/Q85851080,0.95,linked
+http://volleyball-kg.org/ontology#Heynen,Heynen,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#FIVB_Volleyball_World_Championship,FIVB Volleyball World Championship,EVENT,http://www.wikidata.org/entity/Q22669035,0.95,linked
+http://volleyball-kg.org/ontology#European_Volleyball_Championship,European Volleyball Championship,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Nikola_Grbić,Nikola Grbić,PERSON,http://www.wikidata.org/entity/Q715898,0.95,linked
+http://volleyball-kg.org/ontology#Poland_Volleyball_National_Team,Poland Volleyball National Team,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Volleyball_Olympic_Qualification_Tournament,Volleyball Olympic Qualification Tournament,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#2024_Summer_Olympics,2024 Summer Olympics,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#European_League,European League,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#World_University_Games,World University Games,EVENT,http://www.wikidata.org/entity/Q188158,0.95,linked
+http://volleyball-kg.org/ontology#Hubert_Jerzy_Wagner_Memorial,Hubert Jerzy Wagner Memorial,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Łukasz_Kadziewicz,Łukasz Kadziewicz,PERSON,http://www.wikidata.org/entity/Q1758609,0.95,linked
+http://volleyball-kg.org/ontology#Kadziu_Project,Kadziu Project,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Olympics_in,Olympics in,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#Kadziewicz,Kadziewicz,PERSON,http://www.wikidata.org/entity/Q111796201,0.95,linked
+http://volleyball-kg.org/ontology#Igłą_Szyte,Igłą Szyte,PERSON,,0.0,new_entity
+http://volleyball-kg.org/ontology#Ignaczak,Ignaczak,PERSON,http://www.wikidata.org/entity/Q37526361,0.95,linked
+http://volleyball-kg.org/ontology#Drużyna,Drużyna,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#CEV_European_Championship,CEV European Championship,EVENT,,0.0,new_entity
+http://volleyball-kg.org/ontology#PKN_Orlen,PKN Orlen,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Plus,Plus,ORG,http://www.wikidata.org/entity/Q623742,0.8,linked
+http://volleyball-kg.org/ontology#Adidas,Adidas,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Okocim_Brewery,Okocim Brewery,ORG,http://www.wikidata.org/entity/Q3536948,0.95,linked
+http://volleyball-kg.org/ontology#Deloitte,Deloitte,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Kinder,Kinder +,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Sport,Sport,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Dynamic_Parcel_Distribution,Dynamic Parcel Distribution,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Jurajska,Jurajska,ORG,http://www.wikidata.org/entity/Q11729472,0.95,linked
+http://volleyball-kg.org/ontology#SMJ_sport,SMJ sport,ORG,,0.0,new_entity
+http://volleyball-kg.org/ontology#Italian_Volleyball_Federation,Italian Volleyball Federation,ORG,http://www.wikidata.org/entity/Q1107068,0.95,linked
+http://volleyball-kg.org/ontology#World_Championships,World Championships,EVENT,,0.0,new_entity

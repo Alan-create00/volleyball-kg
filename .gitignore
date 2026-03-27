@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Large data files (link instead)
+*.nt
+*.ttl
+data/train.txt
+data/valid.txt
+data/test.txt
+
+# Models (too large for git)
+kge/*_model/
+
+# API keys
+*.env
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
